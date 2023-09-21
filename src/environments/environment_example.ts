@@ -1,2 +1,2 @@
 // Here are different examples how to set up environment file structure:
-// replace openAIkey with your key
+// replace OPEN_AI_API_KEY with your key
